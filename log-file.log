@@ -1,0 +1,7 @@
+[2020-04-14 20:12:38] <::ffff:127.0.0.1> <CONNECT> <www.google.ru>
+[2020-04-14 20:12:38] <::ffff:127.0.0.1> <CONNECT> <www.gstatic.com>
+[2020-04-14 20:12:39] <::ffff:127.0.0.1> <CONNECT> <apis.google.com>
+[2020-04-14 20:12:39] <::ffff:127.0.0.1> <CONNECT> <encrypted-tbn0.gstatic.com>
+[2020-04-14 20:12:39] <::ffff:127.0.0.1> <CONNECT> <adservice.google.ru>
+[2020-04-14 20:12:39] <::ffff:127.0.0.1> <CONNECT> <adservice.google.com>
+[2020-04-14 20:12:39] <::ffff:127.0.0.1> <CONNECT> <googleads.g.doubleclick.net>
